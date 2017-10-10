@@ -4,7 +4,7 @@
 # 学习资料：  
 + [Bengio Yoshua，Ian J. Goodfellow 和 Aaron Courville: Deep Learning](http://www.deeplearningbook.org/ '英文版深度学习的“圣经”')
 + [从0到1：我是如何在一年内无师自通机器学习的？](https://www.leiphone.com/news/201609/SJGulTsdGcisR8Wz.html)
-+ [干货分享 | 深度学习零基础进阶大法！](https://www.leiphone.com/news/201610/tgtcVePX2kdDlHfL.html)
++ [深度学习零基础进阶大法！](https://www.leiphone.com/news/201610/tgtcVePX2kdDlHfL.html)
 + [这六段代码隐藏着深度学习的前世今生！](https://www.leiphone.com/news/201710/NpPznyJfYrJQKNch.html)
 + [如何看待Geoffrey Hinton的言论，深度学习要另起炉灶，彻底抛弃反向传播？](https://www.zhihu.com/question/65430434/answer/231173731)
 - [深度学习要另起炉灶，彻底抛弃反向传播？](https://www.leiphone.com/news/201709/sMY5ayJbNPwkj8NH.html)
