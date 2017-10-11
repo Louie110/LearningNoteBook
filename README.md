@@ -1,5 +1,5 @@
 -[Theano停止更新之后，开发者们怎么说？](https://www.leiphone.com/news/201709/r3wOPX83sanYhLmk.html)
-
+- [IT问道](http://www.itwendao.com/)
 
 # 学习资料：  
 + [Bengio Yoshua，Ian J. Goodfellow 和 Aaron Courville: Deep Learning](http://www.deeplearningbook.org/ '英文版深度学习的“圣经”')
@@ -18,6 +18,17 @@
 - [手把手教你用 python 和 scikit-learn 实现垃圾邮件过滤](https://www.leiphone.com/news/201707/YkBwwc4HeXq76eS3.html)
 
 # 文件管理
-## docx文件
+## 字体
+- [Adobe Fonts](https://github.com/adobe-fonts)
+## docx
 - [python-docx 使用教程](http://www.cnblogs.com/rencm/p/6285304.html)
 - [python-docx官方教程](https://python-docx.readthedocs.io/en/latest/index.html)
+
+## pdf 
+- [PyPDF2](https://pythonhosted.org/PyPDF2/#)
+## 词云
+- [解决Python词云库wordcloud不显示中文的问题](http://blog.csdn.net/xiemanr/article/details/72796739)
+- [Xinering/word_cloud](https://github.com/Xinering/word_cloud)
+- [More word-clouds!](https://amueller.github.io/word_cloud/)
+- [使用Python定制词云](http://www.cnblogs.com/mrchige/p/6498541.html)
+- [Python word_cloud 部分文档翻译 标签云系列（二）](http://www.cnblogs.com/Yiutto/p/5998296.html)
