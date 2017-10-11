@@ -26,6 +26,10 @@
 
 ## pdf 
 - [PyPDF2](https://pythonhosted.org/PyPDF2/#)
+- [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
+- [pdfminer3k](https://github.com/jaepil/pdfminer3k)
+- [Python 3.6 中使用pdfminer解析pdf文件](http://www.itwendao.com/article/detail/297323.html)
+Python3 使用 `pip install pdfminer3k` 或 `pip install pdfminer.six`
 
 ## 词云
 - [解决Python词云库wordcloud不显示中文的问题](http://blog.csdn.net/xiemanr/article/details/72796739)
