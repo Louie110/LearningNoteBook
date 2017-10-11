@@ -1,4 +1,3 @@
-
 -[Theano停止更新之后，开发者们怎么说？](https://www.leiphone.com/news/201709/r3wOPX83sanYhLmk.html)
 
 
@@ -17,3 +16,8 @@
 - [Kaggle机器学习之模型融合（stacking）心得](https://www.leiphone.com/news/201709/zYIOJqMzR0mJARzj.html)
 - [深度学习框架太抽象？其实不外乎这五大核心组件](https://www.leiphone.com/news/201701/DZeAwe2qgx8JhbU8.html)
 - [手把手教你用 python 和 scikit-learn 实现垃圾邮件过滤](https://www.leiphone.com/news/201707/YkBwwc4HeXq76eS3.html)
+
+# 文件管理
+## docx文件
+- [python-docx 使用教程](http://www.cnblogs.com/rencm/p/6285304.html)
+- [python-docx官方教程](https://python-docx.readthedocs.io/en/latest/index.html)
