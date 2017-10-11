@@ -25,6 +25,7 @@
 - [python-docx官方教程](https://python-docx.readthedocs.io/en/latest/index.html)
 
 ## pdf 
+- [Python 俱乐部](http://www.pythonclub.org/python-files/pdf)
 - [PyPDF2](https://pythonhosted.org/PyPDF2/#)
 - [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
 - [pdfminer3k](https://github.com/jaepil/pdfminer3k)
