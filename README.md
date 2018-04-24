@@ -1,5 +1,6 @@
 -[Theano停止更新之后，开发者们怎么说？](https://www.leiphone.com/news/201709/r3wOPX83sanYhLmk.html)
-- [IT问道](http://www.itwendao.com/)
+
+
 
 # 学习资料：  
 + [Bengio Yoshua，Ian J. Goodfellow 和 Aaron Courville: Deep Learning](http://www.deeplearningbook.org/ '英文版深度学习的“圣经”')
